@@ -1,10 +1,16 @@
-### Hi there 👋 I'm a Autonomous Driving software develper using Autoware.
+### Hi there 👋 
+I'm a Autonomous Driving software develper.
+<html>
 
-🤹 Skills
+### 🤹 Skills <hr>
 
-Platforms & Languages<br>
-<img src="https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ROS&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROS2-22314E?style=plastic&logo=ROS&logoColor=white"/>
+#### Platforms & Languages<br>
+<img src="https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ROS&logoColor=white"/> <img src="https://img.shields.io/badge/ROS2-22314E?style=plastic&logo=ROS&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python+&logoColor=white"/>
+
+
+</html>
 <!--
 **giljinoh/giljinoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
